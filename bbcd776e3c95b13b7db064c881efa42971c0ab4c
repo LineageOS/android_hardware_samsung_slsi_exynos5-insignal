@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_4aa3179f",
+        "filename": "libhwc/ExynosHWC.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 584,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-25T11:20:18Z",
+      "side": 1,
+      "message": "VIDIOC_G_DV_PRESET -\u003e VIDIOC_G_DV_TIMINGS is the only real change here it appears.",
+      "revId": "bbcd776e3c95b13b7db064c881efa42971c0ab4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
