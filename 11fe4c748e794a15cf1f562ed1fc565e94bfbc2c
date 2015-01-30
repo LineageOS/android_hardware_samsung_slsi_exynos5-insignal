@@ -16,6 +16,24 @@
       "revId": "11fe4c748e794a15cf1f562ed1fc565e94bfbc2c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_3fbb6a74",
+        "filename": "libhwc/ExynosHWC.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 510,
+      "author": {
+        "id": 7566
+      },
+      "writtenOn": "2015-01-30T21:55:56Z",
+      "side": 1,
+      "message": "The struct is also different. Then I would have to add several ifdef and it makes it harder to read the function then.",
+      "parentUuid": "fad55976_8d74effd",
+      "revId": "11fe4c748e794a15cf1f562ed1fc565e94bfbc2c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
