@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_563c542f",
+        "filename": "libhwc/ExynosHWC.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 501,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-03-24T17:37:20Z",
+      "side": 1,
+      "message": "Actually, this is correct.",
+      "revId": "fea94e762908868cf9ca7f32626ce53063cc0e9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_b64948d3",
+        "filename": "libhwc/ExynosHWC.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-03-24T17:37:20Z",
+      "side": 1,
+      "message": "This should be moved to the platform-specific HWC header file.",
+      "revId": "fea94e762908868cf9ca7f32626ce53063cc0e9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
