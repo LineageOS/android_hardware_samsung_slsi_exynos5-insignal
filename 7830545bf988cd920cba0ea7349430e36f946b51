@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_992c3dad",
+        "filename": "libhwc/ExynosHWC.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 487,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-03-25T11:34:01Z",
+      "side": 1,
+      "message": "shouldn\u0027t this be\n    index: index++\n(without the space)",
+      "revId": "7830545bf988cd920cba0ea7349430e36f946b51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
