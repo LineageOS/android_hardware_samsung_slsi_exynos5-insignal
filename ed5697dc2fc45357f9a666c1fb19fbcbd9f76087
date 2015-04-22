@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da7fb54a_047398b2",
+        "filename": "libswconverter/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-04-22T17:50:08Z",
+      "side": 1,
+      "message": "I think this flag (or the equivalent that I used to have) had the logic the other way around. You might want to make the flag a bit more descriptive about which header is actually used.",
+      "revId": "ed5697dc2fc45357f9a666c1fb19fbcbd9f76087",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
