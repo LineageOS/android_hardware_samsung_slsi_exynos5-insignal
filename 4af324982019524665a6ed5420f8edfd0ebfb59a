@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bff0334d_a3c16431",
+        "filename": "libhwc/ExynosHWC.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 4507,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-25T01:09:20Z",
+      "side": 1,
+      "message": "This call isn\u0027t returning you what you are expecting?",
+      "revId": "4af324982019524665a6ed5420f8edfd0ebfb59a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
